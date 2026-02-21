@@ -1,4 +1,4 @@
-# L2 - 02: Text to Image Synthesis with LLMs and LVLMs
+# Text to Image Synthesis with LLMs and LVLMs
 
 ## Overview
 
